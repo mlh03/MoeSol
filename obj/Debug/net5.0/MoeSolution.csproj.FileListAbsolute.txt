@@ -1,0 +1,15 @@
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/bin/Debug/net5.0/MoeSolution.deps.json
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/bin/Debug/net5.0/MoeSolution.runtimeconfig.json
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/bin/Debug/net5.0/MoeSolution.runtimeconfig.dev.json
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/bin/Debug/net5.0/MoeSolution.dll
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/bin/Debug/net5.0/ref/MoeSolution.dll
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/bin/Debug/net5.0/MoeSolution.pdb
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/obj/Debug/net5.0/MoeSolution.csproj.AssemblyReference.cache
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/obj/Debug/net5.0/MoeSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/obj/Debug/net5.0/MoeSolution.AssemblyInfoInputs.cache
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/obj/Debug/net5.0/MoeSolution.AssemblyInfo.cs
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/obj/Debug/net5.0/MoeSolution.csproj.CoreCompileInputs.cache
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/obj/Debug/net5.0/MoeSolution.dll
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/obj/Debug/net5.0/ref/MoeSolution.dll
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/obj/Debug/net5.0/MoeSolution.pdb
+/Users/mohamedalsadi/Desktop/Apps/MoeSolutionApp/MoeSolution/obj/Debug/net5.0/MoeSolution.genruntimeconfig.cache
